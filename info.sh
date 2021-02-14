@@ -69,10 +69,9 @@ crontab -l
 #webserver
 echo
 echo webserver
-ls -alhR /var/www/
-ls -alhR /srv/www/htdocs/
-ls -alhR /usr/local/www/apache22/data/
-ls -alhR /opt/lampp/htdocs/
-ls -alhR /var/www/html/
+#ls -alhR /var/www/
+#ls -alhR /srv/www/htdocs/
+#ls -alhR /usr/local/www/apache22/data/
+#ls -alhR /opt/lampp/htdocs/
+#ls -alhR /var/www/html/
 
-usermod -a -G root boba_fett
