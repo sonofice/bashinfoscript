@@ -75,5 +75,5 @@ echo webserver
 #ls -alhR /opt/lampp/htdocs/
 #ls -alhR /var/www/html/
 
-echo small
+echo big
 
